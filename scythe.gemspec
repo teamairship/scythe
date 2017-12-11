@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A Ruby Wrapper for the Harvest API http://www.getharvest.com/"
   spec.description   = "Scythe wraps the Harvest V2 API concisely without the use of Rails dependencies. More information about the Harvest API can be found on their website (https://help.getharvest.com/api-v2/)."
-  spec.homepage      = "http://github.com/zmoazeni/harvested"
+  spec.homepage      = "http://github.com/teamairship/scythe"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
